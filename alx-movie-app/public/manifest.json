@@ -15,8 +15,8 @@
       "type": "image/png"
     },
     {
-      "src": "/icons/ms-icon-310x310.png",
-      "sizes": "310x310",
+      "src": "/icons/ms-icon-310x150.png",
+      "sizes": "310x150",
       "type": "image/png"
     }
   ],
